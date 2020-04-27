@@ -280,6 +280,7 @@ input[type="number"] {
 
 .site-header .main-menu {
   margin: 0 -18px;
+  float: right;
 }
 
 @media (min-width: 992px) {
