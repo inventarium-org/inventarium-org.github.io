@@ -629,21 +629,21 @@ input[type="number"] {
 
 @media (min-width: 576px) {
   .main-title {
-    font-size: 48px;
+    font-size: 46px;
     line-height: 76px;
   }
 }
 
 @media (min-width: 768px) {
   .main-title {
-    font-size: 58px;
+    font-size: 56px;
     line-height: 86px;
   }
 }
 
 @media (min-width: 992px) {
   .main-title {
-    font-size: 65px;
+    font-size: 61px;
     padding-right: 21px;
     text-align: left;
   }
@@ -651,7 +651,7 @@ input[type="number"] {
 
 @media (min-width: 1200px) {
   .main-title {
-    font-size: 70px;
+    font-size: 66px;
   }
 }
 
